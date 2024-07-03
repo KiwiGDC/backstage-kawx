@@ -1,0 +1,10 @@
+services:
+  backstage:
+    container_name: backstage
+    command: ["node", "packages/backend", "--config", "app-config.yaml"]
+    build:
+      dockerfile: ./packages/backend/Dockerfile
+    ports:
+      - "7007:7007"
+    env_file:
+      - ./local.env
