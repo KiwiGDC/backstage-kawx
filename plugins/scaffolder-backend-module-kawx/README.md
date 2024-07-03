@@ -1,4 +1,4 @@
-# @internal/backstage-plugin-scaffolder-backend-module-kawx
+# @kiwigdc/backstage-plugin-scaffolder-backend-module-kawx
 
 The kawx backend module for the scaffolder plugin.
 
