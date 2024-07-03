@@ -16791,10 +16791,10 @@ knex@3, knex@^3.0.0:
     tarn "^3.0.2"
     tildify "2.0.0"
 
-knode-awx@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/knode-awx/-/knode-awx-0.1.0.tgz#1bde597a35604144d851ae54302a90573f447593"
-  integrity sha512-+b7iEDwMshBYiJR3Ge4iBCu5i6/BlGRTBOv4q/y8RoJ1MEdwYpykw2cfAakDETC3r3audMHjW42FH2Vw3issug==
+knode-awx@^0.1.0-a:
+  version "0.1.0-a"
+  resolved "https://registry.yarnpkg.com/knode-awx/-/knode-awx-0.1.0-a.tgz#d0453360085feae38dd945cb6af7098eba3d3ca6"
+  integrity sha512-beTk3Ej/cD14UAzR3B4Dy4JPdAae36PeWKLcJgWK/fuYkvv9jDfGfp5IpQx4PVpcZm1AkwHQItQzlPNSjijN7g==
 
 kuler@^2.0.0:
   version "2.0.0"
