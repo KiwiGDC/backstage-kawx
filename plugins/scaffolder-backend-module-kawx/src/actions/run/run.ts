@@ -27,7 +27,7 @@ export function createJobTemplateLaunchAction(config: Config) {
           job: {
             title: 'Job',
             description: 'Information for the job ',
-            type: Job,
+            type: 'object',
           }
         },
       }
